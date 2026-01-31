@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "icon": "Calculator",
+      "title": "Strategic Accounting",
+      "description": "Precision-driven financial recording integrated with real-time MIS dashboards for total fiscal clarity.",
+      "items": [
+        "MIS Dashboards",
+        "P&L Management",
+        "Cash Flow Forecasting"
+      ],
+      "highlight": "Enterprise-Grade",
+      "stat": "99.8% Accuracy"
+    },
+    {
+      "icon": "CircleDollarSign",
+      "title": "Tax Optimization",
+      "description": "Sophisticated tax planning frameworks designed to maximize legal deductions and ensure compliance.",
+      "items": [
+        "ITR Optimization",
+        "TDS Management",
+        "International Tax"
+      ],
+      "highlight": "₹25Cr+ Optimized",
+      "stat": "Zero Lapse Record"
+    },
+    {
+      "icon": "FileSearch",
+      "title": "GST Advisory",
+      "description": "End-to-end lifecycle management of GST returns with automated reconciliation and audit support.",
+      "items": [
+        "Return Filing",
+        "ITC Optimization",
+        "Audit Representation"
+      ],
+      "highlight": "Fully Automated",
+      "stat": "100% On-Time"
+    },
+    {
+      "icon": "Building2",
+      "title": "Corporate Services",
+      "description": "Seamless entity formation and annual ROC compliance management for scaling organizations.",
+      "items": [
+        "Company Incorporation",
+        "ROC Compliance",
+        "ISO Certifications"
+      ],
+      "highlight": "48-Hour Turnaround",
+      "stat": "500+ Entities"
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Financial Strategy",
+      "description": "Data-driven modeling and valuation services providing the roadmap for sustainable equity growth.",
+      "items": [
+        "Business Valuation",
+        "Financial Modeling",
+        "Risk Management"
+      ],
+      "highlight": "Growth-Centric",
+      "stat": "30% Avg ROI"
+    },
+    {
+      "icon": "UserCog",
+      "title": "Payroll & Compliance",
+      "description": "Comprehensive payroll architecture ensuring 100% statutory compliance and employee portal integration.",
+      "items": [
+        "PF/ESIC Compliance",
+        "Bonus Calculations",
+        "Labour Law Audit"
+      ],
+      "highlight": "Statutory Secured",
+      "stat": "24/7 Support"
+    }
+  ]
+}

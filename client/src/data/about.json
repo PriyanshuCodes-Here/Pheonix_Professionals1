@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "companyName": "PHOENIX",
+    "companySubtitle": "PROFESSIONALS",
+    "tagline": "REDEFINING FINANCIAL EXCELLENCE SINCE 2026",
+    "mainHeading": ["Beyond Numbers", "Building Legacies"],
+    "description": "Phoenix Professionals isn't just an accounting firm. We're architects of financial transformation, strategic partners in growth, and custodians of fiscal excellence for India's most ambitious enterprises.",
+    "ctaButton": {
+      "text": "EXPLORE OUR JOURNEY",
+      "icon": "BookOpen"
+    }
+  },
+  "achievements": [
+    { "count": "500+", "label": "Businesses Transformed", "icon": "Briefcase" },
+    { "count": "₹25Cr+", "label": "Total Tax Optimized", "icon": "TrendingUp" },
+    { "count": "99.7%", "label": "Compliance Accuracy", "icon": "CheckCircle" },
+    { "count": "24/7", "label": "Client Support", "icon": "Clock" },
+    { "count": "50+", "label": "Industry Verticals", "icon": "Globe" },
+    { "count": "100%", "label": "Client Retention", "icon": "Heart" }
+  ],
+  "philosophy": {
+    "title": "Our Philosophy",
+    "heading": "Where Financial <span style='color: #D4AF37'>Precision</span> Meets<br />Strategic <span style='color: #D4AF37'>Vision</span>",
+    "description": "In a world where numbers are often seen as mere data points, we see them as stories waiting to be told—stories of growth, efficiency, and opportunity. Our approach combines rigorous analytical discipline with forward-looking strategic thinking.",
+    "quote": {
+      "text": "\"We don't just manage your finances; we architect financial ecosystems that drive sustainable competitive advantage and long-term value creation.\"",
+      "icon": "Lightbulb"
+    },
+    "testimonial": {
+      "quote": "\"True financial mastery isn't about counting what you have, but building what you could have.\"",
+      "title": "Our Commitment",
+      "description": "To deliver financial clarity that transforms uncertainty into opportunity",
+      "icon": "Award"
+    }
+  },
+  "milestones": [
+    { "year": "2026", "title": "Foundation Established", "desc": "Phoenix Professionals launched with a vision to redefine financial services" },
+    { "year": "2027", "title": "Technology Integration", "desc": "Implemented AI-powered accounting and cloud-based compliance systems" },
+    { "year": "2028", "title": "National Expansion", "desc": "Expanded services across major Indian metropolitan cities" },
+    { "year": "2029", "title": "Industry Recognition", "desc": "Awarded 'Most Innovative Financial Solutions Provider'" }
+  ],
+  "values": [
+    { 
+      "icon": "ShieldCheck", 
+      "title": "Uncompromising Integrity", 
+      "desc": "We uphold the highest standards of ethical conduct and transparency in every client engagement. Our commitment to honesty forms the foundation of every financial solution we provide.",
+      "highlight": "Zero Conflict Policy"
+    },
+    { 
+      "icon": "Target", 
+      "title": "Surgical Precision", 
+      "desc": "Every calculation, every compliance filing, every financial statement is executed with meticulous attention to detail, ensuring 100% accuracy and regulatory adherence.",
+      "highlight": "99.7% Accuracy Rate"
+    },
+    { 
+      "icon": "Zap", 
+      "title": "Forward-Thinking Innovation", 
+      "desc": "We leverage cutting-edge financial technology and modern accounting methodologies to transform traditional practices into streamlined, efficient solutions for the digital age.",
+      "highlight": "Cloud-First Approach"
+    },
+    { 
+      "icon": "Users", 
+      "title": "Client-Centric Partnership", 
+      "desc": "We view ourselves as strategic extensions of your business, dedicated to understanding your unique challenges and crafting customized financial strategies for sustainable growth.",
+      "highlight": "24/7 Strategic Support"
+    },
+    { 
+      "icon": "TrendingUp", 
+      "title": "Results-Driven Excellence", 
+      "desc": "Our success is measured by your financial growth and operational efficiency. We're committed to delivering tangible value and measurable ROI in every engagement.",
+      "highlight": "₹25Cr+ Tax Savings Delivered"
+    },
+    { 
+      "icon": "Globe", 
+      "title": "Future-Ready Solutions", 
+      "desc": "We prepare businesses not just for today's challenges, but for tomorrow's opportunities with scalable financial frameworks and compliance-ready structures.",
+      "highlight": "PAN India Expertise"
+    }
+  ],
+  "cta": {
+    "heading": "Ready to Write Your<br /><span style='color: black'>Financial Success Story</span>?",
+    "description": "Join 500+ forward-thinking businesses who have transformed their financial operations with Phoenix Professionals.",
+    "buttons": [
+      {
+        "text": "Schedule Strategy Session",
+        "icon": "Briefcase",
+        "style": "black"
+      },
+      {
+        "text": "Download Corporate Profile",
+        "style": "white"
+      }
+    ],
+    "trustedBy": {
+      "title": "Trusted By Industry Leaders",
+      "clients": [
+        { "type": "Startups", "count": "150+ Businesses" },
+        { "type": "Enterprises", "count": "85+ Companies" },
+        { "type": "MSMEs", "count": "200+ Organizations" }
+      ]
+    }
+  }
+}

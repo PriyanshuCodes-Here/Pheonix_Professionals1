@@ -1,0 +1,75 @@
+# ======================
+# Logs
+# ======================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ======================
+# Dependencies
+# ======================
+node_modules/
+
+# ======================
+# Build outputs
+# ======================
+dist/
+dist-ssr/
+build/
+
+# ======================
+# Environment files (IMPORTANT)
+# ======================
+.env
+.env.*
+*.local
+
+# ======================
+# JSON files (generated / sensitive)
+# ======================
+*.secret.json
+*.private.json
+config/*.json
+data/*.json
+models/*.json
+seeds/*.json
+
+# ⚠️ NOTE:
+# Agar koi JSON file source code ka part hai (example: constants.json),
+# to usko ignore mat karo — sirf generated/sensitive JSON hi.
+
+# ======================
+# Cache / temp
+# ======================
+.cache
+.tmp
+.temp
+
+# ======================
+# Editor & OS files
+# ======================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ======================
+# Testing
+# ======================
+coverage/
+
+# ======================
+# Optional framework stuff
+# ======================
+.next/
+out/

@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "badge": {
+      "text": "Financial Insights",
+      "icon": "BookOpen"
+    },
+    "title": "Phoenix <span class='text-gold italic'>Knowledge Hub</span>",
+    "description": "Expert insights, latest updates, and strategic guidance on accounting, taxation, compliance, and financial management for modern businesses.",
+    "searchPlaceholder": "Search articles..."
+  },
+  "popularTags": [
+    "GST",
+    "Tax",
+    "Business",
+    "Accounting",
+    "Compliance"
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "GST Compliance Changes 2024: What Businesses Need to Know",
+      "excerpt": "Latest GST updates and how they impact your business compliance requirements.",
+      "fullContent": "GST compliance in 2024 has undergone several important changes that businesses must understand to remain legally compliant and financially efficient. The government has introduced stricter return filing timelines, enhanced scrutiny through data matching, and increased penalties for non-compliance. Businesses are now required to maintain accurate invoicing, reconcile GSTR-1 and GSTR-3B regularly, and ensure timely filing to avoid interest and late fees. E-invoicing thresholds have been expanded, impacting more small and medium enterprises. Additionally, ITC claims are now closely monitored, making proper documentation essential. Companies that proactively adapt to these changes can reduce compliance risks, avoid notices, and maintain smooth operations. Staying updated with GST regulations is no longer optional—it is a critical part of responsible financial management.",
+      "category": "Tax & Compliance",
+      "author": "Aman Rawat",
+      "authorImage": "https://img.sanishtech.com/u/d056271f1ea88cd833b79165137b6c02.jpg",
+      "date": "Mar 15, 2024",
+      "readTime": "5 min read",
+      "image": "https://img.sanishtech.com/u/d056271f1ea88cd833b79165137b6c02.jpg",
+      "tags": [
+        "GST",
+        "Compliance",
+        "Business",
+        "Tax"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tax Saving Strategies for Startups and Small Businesses",
+      "excerpt": "Effective tax planning techniques to maximize savings for growing businesses.",
+      "fullContent": "Tax planning plays a crucial role in the financial health of startups and small businesses. By understanding available deductions, exemptions, and government schemes, businesses can significantly reduce their tax liability. Proper structuring of expenses, timely investment in eligible instruments, and choosing the correct business structure are key strategies. Startups can benefit from provisions such as startup tax exemptions, depreciation benefits, and expense optimization. Advance tax planning also helps in managing cash flows efficiently and avoiding last-minute tax stress. Consulting with financial experts ensures compliance while maximizing savings. Smart tax strategies not only reduce costs but also support sustainable growth and long-term profitability.",
+      "category": "Tax Planning",
+      "author": "Kamal Bhandari",
+      "authorImage": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=200",
+      "date": "Mar 10, 2024",
+      "readTime": "7 min read",
+      "image": "https://images.unsplash.com/photo-1551135049-8a33b2fb7f5e?auto=format&fit=crop&w=800",
+      "tags": [
+        "Tax",
+        "Startups",
+        "Saving",
+        "Business"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Digital Accounting: Transitioning from Traditional to Cloud-Based Systems",
+      "excerpt": "A comprehensive guide to modernizing your accounting practices.",
+      "fullContent": "Digital accounting has transformed the way businesses manage their financial records. Moving from traditional bookkeeping to cloud-based systems improves accuracy, accessibility, and efficiency. Cloud accounting enables real-time financial tracking, automated reporting, and secure data storage. It also allows business owners and accountants to collaborate remotely without data duplication. With features like automated GST calculations, bank reconciliation, and analytics dashboards, digital accounting reduces manual errors and saves time. Businesses adopting cloud solutions gain better financial visibility and scalability. In a fast-paced digital economy, transitioning to cloud-based accounting is a strategic move toward modernization and operational excellence.",
+      "category": "Accounting",
+      "author": "Priyanshu Bisht",
+      "authorImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200",
+      "date": "Mar 5, 2024",
+      "readTime": "8 min read",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800",
+      "tags": [
+        "Accounting",
+        "Digital",
+        "Cloud",
+        "Technology"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MSME Registration Benefits You Might Be Missing",
+      "excerpt": "Complete guide to MSME/Udyam registration advantages and process.",
+      "fullContent": "MSME registration provides numerous benefits that many small businesses often overlook. Registered MSMEs gain access to easier bank loans, lower interest rates, government subsidies, and priority sector lending. Additional advantages include protection against delayed payments, tax rebates, and eligibility for government tenders. Udyam registration also enhances business credibility and supports long-term growth. The registration process is simple and completely online, making it accessible for entrepreneurs. By leveraging MSME benefits, businesses can improve cash flow, reduce operational costs, and strengthen their market position. Ignoring MSME registration may result in missed financial and strategic opportunities.",
+      "category": "Business",
+      "author": "Sachin Bhandari",
+      "authorImage": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=200",
+      "date": "Feb 28, 2024",
+      "readTime": "6 min read",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=800",
+      "tags": [
+        "MSME",
+        "Registration",
+        "Benefits",
+        "Business"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Financial Forecasting for Business Growth in 2024",
+      "excerpt": "How accurate financial forecasting can drive sustainable business growth.",
+      "fullContent": "Financial forecasting helps businesses anticipate future revenue, expenses, and cash flow requirements. By analyzing historical data and market trends, organizations can make informed decisions and reduce financial uncertainty. Accurate forecasting supports budgeting, investment planning, and risk management. It also enables businesses to prepare for market fluctuations and growth opportunities. In 2024, data-driven forecasting tools and analytics play a vital role in strategic planning. Companies that prioritize financial forecasting are better equipped to scale operations, attract investors, and maintain financial stability. A well-structured forecast acts as a roadmap for sustainable growth.",
+      "category": "Financial Advisory",
+      "author": "Dr. Sushma Bhahuguna",
+      "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200",
+      "date": "Feb 20, 2024",
+      "readTime": "10 min read",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800",
+      "tags": [
+        "Strategy",
+        "Finance"
+      ]
+    }
+  ],
+  "cta": {
+    "title": "Need Expert <span class='text-gold'>Financial Advice</span>?",
+    "description": "Our team of certified professionals is ready to answer your questions and provide personalized solutions.",
+    "buttons": [
+      {
+        "text": "Schedule Consultation",
+        "icon": "MessageSquare",
+        "link": "/contact"
+      },
+      {
+        "text": "View Our Services",
+        "link": "/services"
+      }
+    ]
+  }
+}
