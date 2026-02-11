@@ -1,11 +1,13 @@
 import { useState } from "react";
-import { useAdminAuth } from "../../context/AdminAuthContext";
+import { useNavigate } from "react-router-dom";
+import { useAdminAuth } from "../context/AdminAuthContext";
 import { Shield, Lock, User } from "lucide-react";
 
 const Login = () => {
   const { login } = useAdminAuth();
+  const navigate = useNavigate(); // ✅ ADD THIS
 
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState("");2
   const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -23,6 +25,8 @@ const Login = () => {
     setTimeout(() => {
       const fakeToken = "admin-auth-token-123";
       login(fakeToken);
+      localStorage.setItem("admin_login_time", Date.now()); // 👈 ADD HERE
+      navigate("/admin");
       setLoading(false);
     }, 800);
   };
@@ -30,7 +34,6 @@ const Login = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-black to-gray-950">
       <div className="w-full max-w-md bg-gray-900 border border-gray-800 rounded-2xl shadow-2xl p-8">
-        
         {/* Header */}
         <div className="text-center mb-8">
           <div className="w-16 h-16 mx-auto rounded-full bg-amber-500/20 flex items-center justify-center mb-4">
@@ -44,7 +47,6 @@ const Login = () => {
 
         {/* Form */}
         <form onSubmit={handleSubmit} className="space-y-5">
-          
           {/* Email */}
           <div>
             <label className="text-sm text-gray-400">Email</label>

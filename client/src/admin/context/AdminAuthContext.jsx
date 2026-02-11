@@ -1,11 +1,9 @@
 // src/admin/context/AdminAuthContext.jsx
 import React, { createContext, useContext, useState, useMemo } from "react";
-import { useNavigate } from "react-router-dom";
 
 const AdminAuthContext = createContext(null);
 
 export function AdminAuthProvider({ children }) {
-  const navigate = useNavigate();
   const [token, setToken] = useState(() =>
     localStorage.getItem("adminToken")
   );
@@ -13,13 +11,11 @@ export function AdminAuthProvider({ children }) {
   const login = (newToken) => {
     localStorage.setItem("adminToken", newToken);
     setToken(newToken);
-    navigate("/admin");
   };
 
   const logout = () => {
     localStorage.removeItem("adminToken");
     setToken(null);
-    navigate("/admin/login");
   };
 
   const value = useMemo(
