@@ -15,6 +15,7 @@ import AdminHome from "./admin/pages/AdminHome";
 import AdminBlogs from "./admin/pages/AdminBlogs";
 import AdminAbout from "./admin/pages/AdminAbout";
 import AdminServices from "./admin/pages/AdminServices";
+import GstReturnFilling from "./pages/gstreturnfilling";
 
 /* ===== Admin Guard ===== */
 import AdminGuard from "./admin/components/AdminGuard";
@@ -30,7 +31,7 @@ function App() {
       <Route path="/blog/:id" element={<BlogDetail />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/login" element={<ClientLogin />} />
-
+      <Route path="/gst-filling" element={<GstReturnFilling />} />
       {/* ===== Admin Routes ===== */}
       <Route path="/admin/login" element={<AdminLogin />} />
 

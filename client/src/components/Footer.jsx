@@ -28,7 +28,7 @@ const Footer = () => {
     services: [
       { name: 'Accounting & Bookkeeping', path: '/services#accounting' },
       { name: 'Tax Planning', path: '/services#tax' },
-      { name: 'GST Compliance', path: '/services#gst' },
+      { name: 'GST Compliance', path: '/gst-filling' },
       { name: 'Business Formation', path: '/services#business' },
       { name: 'Audit & Assurance', path: '/services#audit' }
     ],
