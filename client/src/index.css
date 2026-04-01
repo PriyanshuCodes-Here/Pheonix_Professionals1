@@ -1,22 +1,14 @@
-@import "tailwindcss";
-
-@theme {
-  --color-gold: #f2c94c;
-  --color-black-main: #0a0a0a;
-  --color-black-soft: #111111;
-  
-  --font-poppins: "Poppins", sans-serif;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
-  /* स्मूथ स्क्रॉलिंग और डार्क मोड ऑप्टिमाइजेशन */
   html {
     scroll-behavior: smooth;
     @apply bg-black-main;
   }
 }
 
-/* 10-Year Exp. Coder Animations */
 @keyframes fade-up {
   from {
     opacity: 0;
