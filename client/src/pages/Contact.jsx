@@ -7,7 +7,7 @@ import {
   CheckCircle, ChevronDown, ChevronRight,
   Shield, Zap, Globe, Award, Star, AlertCircle, Loader2
 } from 'lucide-react';
-// नया बैकएंड इम्पोर्ट
+
 import { contactAPI } from '../services/api';
 
 // --- CUSTOM ANIMATED SELECT COMPONENT ---
@@ -222,7 +222,7 @@ const Contact = () => {
                       <div className="w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center group-hover:bg-gold group-hover:text-black transition-all">
                         <Phone className="w-5 h-5" />
                       </div>
-                      <p className="text-lg font-bold">+91 98765 43210</p>
+                      <p className="text-lg font-bold">+91 8851 459 737</p>
                     </div>
                   </div>
                 </div>
